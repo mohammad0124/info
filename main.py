@@ -1,5 +1,4 @@
 import os, platform, time, sys
-import ok
 import cowsay
 from colorama import Fore
 
