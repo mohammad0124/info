@@ -1,3 +1,4 @@
+# in the name of allah
 import os, platform, time, sys
 import cowsay
 from colorama import Fore
